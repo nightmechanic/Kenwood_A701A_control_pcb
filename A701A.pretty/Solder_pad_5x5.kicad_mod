@@ -1,0 +1,9 @@
+(module Solder_pad_5x5 (layer F.Cu)
+  (fp_text reference Solder_pad_5x5 (at 0 -8.9) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value VAL** (at 0.05 -7.25) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole rect (at 0.1 0.05) (size 5 5) (drill 2.2) (layers *.Cu *.Mask F.SilkS))
+)

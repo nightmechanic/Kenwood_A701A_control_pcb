@@ -1,0 +1,59 @@
+Cmp-Mod V01 Created by CvPcb (2014-01-19 BZR 4624)-product date = 5/28/2014 12:28:07 AM
+
+BeginCmp
+TimeStamp = /5384EEBF;
+Reference = C1;
+ValeurCmp = 0.15uF 275V X2 Film;
+IdModule  = A701A:KEMET_PME271M615K;
+EndCmp
+
+BeginCmp
+TimeStamp = /5384EEFD;
+Reference = L1;
+ValeurCmp = 22uH 3A choke;
+IdModule  = A701A:EPCOS_B82111EC22;
+EndCmp
+
+BeginCmp
+TimeStamp = /5384EF3E;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = A701A:PHOENIX_TERMINAL_PTS1.5_2-5.0-H;
+EndCmp
+
+BeginCmp
+TimeStamp = /5384EF2A;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = A701A:PHOENIX_TERMINAL_PTS1.5_2-5.0-H;
+EndCmp
+
+BeginCmp
+TimeStamp = /5384EEAB;
+Reference = R1;
+ValeurCmp = 10k 2W;
+IdModule  = A701A:VISHAY_PR02;
+EndCmp
+
+BeginCmp
+TimeStamp = /5384EE97;
+Reference = R2;
+ValeurCmp = 470R 25W;
+IdModule  = A701A:XICON_CR25;
+EndCmp
+
+BeginCmp
+TimeStamp = /5384EE83;
+Reference = R3;
+ValeurCmp = 450R 15W DDR;
+IdModule  = A701A:DDR_15W;
+EndCmp
+
+BeginCmp
+TimeStamp = /5384EF5B;
+Reference = R4;
+ValeurCmp = 50R 2W;
+IdModule  = A701A:VISHAY_PR02;
+EndCmp
+
+EndListe
